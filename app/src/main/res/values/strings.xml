@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleMovie</string>
+    <string name="text_theme">主题</string>
+    <string name="text_setting">设置</string>
+    <string name="text_share">分享</string>
+    <string name="text_review">评价</string>
+</resources>
